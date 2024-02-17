@@ -2,14 +2,27 @@
 
 Create projects using 1 command.
 
-## Create Project
+## Requirements
 
-### React on Rails
+Docker and Docker Compose. I'm not sure what minimum versions yet.
 
-```shell
-curl -fsSL https://desm.github.io/rsg/react_on_rails | bash -s /path/to/project
-```
+Known to work with:
 
-http://localhost:8000 - default Ruby on Rails page
+- Ubuntu 22.04 with Docker 24.0.5 and Docker Compose 1.27.4
+- macOS 10.15 with Docker 20.10 and Docker Compose 2.13
 
-http://localhost:8000/hello_world - working example of React on Rails
+## Projects
+
+- [React on Rails](react-on-rails)
+
+## Documentation
+
+- Coming soon...
+
+## Roadmap
+
+- Explain how this project was set up so that you can create your own.
+
+## Contribute
+
+- It would be nice to know if this works on Windows
