@@ -8,6 +8,11 @@ http://localhost:8000 - default Ruby on Rails page
 
 http://localhost:8000/hello_world - working example of React on Rails
 
+## Dockerfile
+
+The Docker image used to create the project files as well as to run the dev server
+is built using the following Dockerfile: https://github.com/desm/rsg-react-on-rails/blob/main/Dockerfile
+
 ## Requirements
 
 Known to work with:
