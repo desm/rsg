@@ -4,25 +4,22 @@ Create projects using 1 command.
 
 ## Requirements
 
-Docker and Docker Compose. I'm not sure what minimum versions yet.
-
-Known to work with:
-
-- Ubuntu 22.04 with Docker 24.0.5 and Docker Compose 1.27.4
-- macOS 10.15 with Docker 20.10 and Docker Compose 2.13
+curl, bash, Docker, Docker Compose
 
 ## Projects
+
+There's only one at the moment:
 
 - [React on Rails](react-on-rails)
 
 ## Documentation
 
-- Coming soon...
+TODO
 
 ## Roadmap
 
-- Explain how this project was set up so that you can create your own.
+- Add documentation on how this project was set up
 
 ## Contribute
 
-- It would be nice to know if this works on Windows
+- If you try it on Windows, please let me know if you managed to get it to work
