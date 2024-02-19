@@ -1,7 +1,7 @@
 # React on Rails
 
 ```shell
-curl -fsSL https://desm.github.io/rsg/react_on_rails | bash -s /path/to/project
+curl -fsSL https://desm.github.io/rsg/react-on-rails | bash -s /path/to/project
 ```
 
 http://localhost:8000 - default Ruby on Rails page
